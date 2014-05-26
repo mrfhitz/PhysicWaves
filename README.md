@@ -1,13 +1,7 @@
 PhysicWaves
 ===========
+I made this program while study in [ISEP](http://www.isep.ipp.pt) College. 
+At that time i was really interested in game dev and engine creation... So this Project show you some physic law's and some calculos.
+On the code you can see that i build one core and one engine to run this project like a game.
 
-Programa feito em Java que mostra vários efeitos da física através de uma interface gráfica muito interactiva.
-
-## A interface
-Interface baseada em print's / draw's sucessivos que cria a elozão de movimento.
-
-## Efeitos
-+ Efeito Fotoeléctrico
-+ Efeito de Compton
-+ Dispersão de Rayleght
-+ Produção Raios-x
+*Please don't judge my skills. I was a noob at that time.*
