@@ -5,3 +5,6 @@
 *.war
 *.ear
 /PhysicWavesProject/nbproject/private/
+/NetBeans_Project/nbproject/private/
+/NetBeans_Project/dist/
+/NetBeans_Project/build/
